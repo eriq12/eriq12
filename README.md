@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eriq12 (Eriq)
 - 👀 I’m interested in game design and VR/AR.
-- 🌱 I’m currently learning rust and godot.
+- 🌱 I’m currently learning godot.
 - 💞️ I’m looking to collaborate on video game projects.
 - 📫 How to reach me: email - eriq12@gmail.com
 
